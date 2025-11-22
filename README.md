@@ -15,7 +15,7 @@ All files are named according to the official specification (CW1SOB1–CW1SOB10)
 
 ---
 
-# 📁 Repository Structure
+# Repository Structure
 
 ### **C Programs**
 - `CW1SOB1.c` — Student info + calculations  
@@ -118,12 +118,12 @@ chmod +x CW1SOB9.sh
 
 -------------------------------------------
 
-# 📝 Demonstrations  
+# Demonstrations  
 All SOBs were demonstrated to the lab tutor or submitted via screenshots/video as required.
 
 -------------------------------------------
 
-# 📚 Notes  
+# Notes  
 This repository reflects my work for the **CST1500** module as part of my first-year studies.
 
 
